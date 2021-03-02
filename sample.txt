@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>sample</title>
+</head>
+<body bgcolor="peach">
+
+	
+<center><br><br><br><br><br>
+
+	<h1>I'm a Good Son</h1>
+
+</center>	
+</body>
+</html>s
